@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.vscode
+data
+experiments
+Figures
+jobs_output
+*.sub
+run_batch*.py
+results
